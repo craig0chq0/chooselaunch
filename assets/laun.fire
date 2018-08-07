@@ -126,14 +126,14 @@
     },
     "_enabled": true,
     "_useOriginalSize": false,
-    "_actualFontSize": 40,
-    "_fontSize": 40,
+    "_actualFontSize": 20,
+    "_fontSize": 20,
     "_lineHeight": 60,
     "_enableWrapText": true,
     "_N$file": null,
     "_isSystemFontUsed": true,
     "_spacingX": 0,
-    "_N$string": "一大波吃的",
+    "_N$string": "蒸羊羔、蒸熊掌、蒸鹿尾儿、烧花鸭、烧雏鸡、烧子鹅卤猪、卤鸭、酱鸡、腊肉",
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1,
     "_N$fontFamily": "Arial",
@@ -172,7 +172,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 200,
+      "width": 700,
       "height": 60
     },
     "_rotationX": 0,
@@ -231,7 +231,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 426,
+      "width": 800,
       "height": 160
     },
     "_rotationX": 0,
@@ -915,7 +915,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 200,
+      "width": 680,
       "height": 60
     },
     "_rotationX": 0,
@@ -950,7 +950,7 @@
     "_N$file": null,
     "_isSystemFontUsed": true,
     "_spacingX": 0,
-    "_N$string": "随便冰淇淋",
+    "_N$string": "上面的随便选。。。。。反正也吃不到",
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1,
     "_N$fontFamily": "Arial",
@@ -968,7 +968,7 @@
       "__uuid__": "1e7dd960-3411-4914-8a3b-e558817c474a"
     },
     "_type": 0,
-    "_sizeMode": 1,
+    "_sizeMode": 0,
     "_fillType": 0,
     "_fillCenter": {
       "__type__": "cc.Vec2",
